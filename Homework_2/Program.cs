@@ -9,5 +9,3 @@ if (a3 >= 0) {
 } else {
     Console.WriteLine("Третьей цифры нет");
 }
-
-
